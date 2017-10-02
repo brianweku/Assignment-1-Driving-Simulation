@@ -25,3 +25,4 @@ while answer == "yes":
         print("The person reached the destinantion.(reached "+str(d)+" m.)")
     answer=input("continue or not(yes/no): ")
 print("thankyou")
+
